@@ -1,0 +1,31 @@
+Result Log
+Width: 30
+Height: 20
+Pill Density: 20
+Wall Density: 30
+Fruit Probability: 5
+Fruit Score: 10
+Time Multiplier: 2
+Seed: -1
+
+
+Run 1
+Seed: 2018-11-05 17:23:52.651949
+1	32
+10	33
+11	39
+40	41
+142	44
+247	48
+547	50
+
+Run 2
+Seed: 2018-11-05 17:46:52.426281
+1	34
+17	40
+47	51
+
+Run 3
+Seed: 2018-11-05 18:08:49.394542
+1	41
+15	53
